@@ -1,0 +1,2 @@
+## aopmAPI
+aopmAPI is a basic API used for operations on AOPM (Axok!_OS Package Manager). But can be used for simple other things like check GPG files, print infos about everything (yeah, everything...)
